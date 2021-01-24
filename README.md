@@ -1,12 +1,12 @@
-# Hi Human 👋
+## Hi Human 👋
 ## Welcome to the Github profile of Abhimanyu Saxena!
 C.S Engineer from SRMIST Chennai. Passionate about building applications. Optimistic Hive minded person who simps for Science. Funniest Person on the planet.
 
-### Personal Trivia
+## Personal Trivia
 - 🔭 I’m currently working on Space Tourism Website
 - 🌱 I’m currently learning Fullstack Web Development and Artificial Intelligence
 - 👯 I’m looking to collaborate on ANYTHING web related
-- ⚡ Fun fact: You have been stalking my Profile for 2 mins now
+- ⚡ Fun fact: You have been stalking my Profile for atleast 2 mins now
 
 <!--
 **trippysaxena/trippysaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
