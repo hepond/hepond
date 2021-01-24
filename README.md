@@ -1,8 +1,8 @@
-### Hi Human 👋
-# Welcome to the Github profile of Abhimanyu Saxena!
+# Hi Human 👋
+## Welcome to the Github profile of Abhimanyu Saxena!
 C.S Engineer from SRMIST Chennai. Passionate about building applications. Optimistic Hive minded person who simps for Science. Funniest Person on the planet.
 
-# Personal Trivia
+### Personal Trivia
 - 🔭 I’m currently working on Space Tourism Website
 - 🌱 I’m currently learning Fullstack Web Development and Artificial Intelligence
 - 👯 I’m looking to collaborate on ANYTHING web related
